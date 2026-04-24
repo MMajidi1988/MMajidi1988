@@ -1,5 +1,9 @@
 # Martin Majidi 🤖
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=E25822&width=600&lines=Software+Engineer+%26+AI%2FML+Developer;RAG+%7C+LLMs+%7C+Computer+Vision;Chatbots+%26+Conversational+AI" alt="Typing SVG" />
+</a>
+
 **Software Engineer & AI/ML Developer who ships things** — from research papers to production systems.
 
 ---
