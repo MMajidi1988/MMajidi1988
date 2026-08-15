@@ -8,7 +8,7 @@
 
 ---
 
-- 🇳🇴 &nbsp;Based in Oslo, Norway
+- 🇳🇴 &nbsp;Based in Sandefjord , Norway
 - 💼 &nbsp;Previously @ Allente AS & Forzasys / SimulaMet
 - 🎓 &nbsp;MSc Applied Computer Science (AI), Oslo Metropolitan University — Grade A
 - 📜 &nbsp;6 publications · 98 citations · h-index 5
